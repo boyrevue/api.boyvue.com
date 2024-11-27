@@ -42,3 +42,4 @@ package-lock.json
 yarn.lock
 
 obfuscatordist/.next/cache/
+dist/.next/cache/
