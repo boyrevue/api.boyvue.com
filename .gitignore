@@ -43,3 +43,4 @@ yarn.lock
 
 obfuscatordist/.next/cache/
 dist/.next/cache/
+dist/.next/cache/
