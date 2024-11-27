@@ -1,0 +1,19 @@
+{
+  "currency": "EUR",
+  "customer": {
+    "username": "244c4245c25f3057e8b94ecdd528cb55f02fb81d",
+    "password": "fdc39dacb04f635f022e29c6977ec8abe030e120",
+    "token": "244c4245c25f3057e8b94ecdd528cb55f02fb81d:fdc39dacb04f635f022e29c6977ec8abe030e120",
+    "force_smart_routing": false
+  },
+  "gateway": {
+    "protocol": "https",
+    "hostname": "emerchantpay.net",
+    "timeout": "60000",
+    "testing": true
+  },
+  "notifications": {
+    "host": "https://viberhive.com",
+    "path": "https://api.viberhive.com"
+  }
+}
